@@ -24,7 +24,7 @@ public class PrimerProyecto {
         Controlador controlador=new Controlador(modelo,vista);
         controlador.show();
         
-        
+        //agregooooooooooooooo
         //holaaaaaaaaaaaaaaaaaaaaa
     }
     
