@@ -23,6 +23,9 @@ public class PrimerProyecto {
         Vista vista=new Vista();
         Controlador controlador=new Controlador(modelo,vista);
         controlador.show();
+        
+        
+        //holaaaaaaaaaaaaaaaaaaaaa
     }
     
 }
