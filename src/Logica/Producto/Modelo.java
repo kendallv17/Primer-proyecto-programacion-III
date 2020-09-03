@@ -24,6 +24,10 @@ public class Modelo extends Observable{
         productos.add(p);
         //agregar un valor predeterminado...
     }
+    //
+    
+    
+    
 
     @Override
     protected synchronized void setChanged() {

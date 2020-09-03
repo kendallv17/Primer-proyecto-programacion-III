@@ -57,6 +57,11 @@ public class ProductoTableModel  extends AbstractTableModel {
     public String getColumnName(int column) {
        return datos[column];
     }
+    //
+    
+    
+    
+    
 }
 
 
